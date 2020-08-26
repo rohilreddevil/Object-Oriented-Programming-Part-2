@@ -1,0 +1,9 @@
+// Name: Rohil Khakhar
+// Seneca Student ID: 109270173
+// Seneca email: rkkhakhar@myseneca.ca
+// Date of completion: 
+//
+// I confirm that the content of this file is created by me,
+// with the exception of the parts provided to me by my professor.
+
+This particular workshop placed emphasis on compositions; which establishes a very strong relationship between the classes.. In this case, Message is part of  Notification. This outlines the concept of composer class and the component class respectively. 
