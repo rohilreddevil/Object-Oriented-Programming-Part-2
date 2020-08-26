@@ -1,0 +1,9 @@
+// Name: Rohil Khakhar		
+// Seneca Student ID: 109270173
+// Seneca email: rkkhakhar@gmail.com
+// Date of completion: 12/10/18
+//
+// I confirm that the content of this file is created by me,
+// with the exception of the parts provided to me by my professor.
+
+This particular workshop taught me how to use lambda expressions, as well as implement switch case statements to imporve code readability. This also allowed me to implement enumerations.
