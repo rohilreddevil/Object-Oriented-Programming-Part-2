@@ -1,0 +1,10 @@
+
+// Name: Rohil Khakhar
+// Seneca Student ID: 109270173
+// Seneca email: rkkhakhar@myseneca.ca
+// Date of completion: 8/11/18
+//
+// I confirm that the content of this file is created by me,
+// with the exception of the parts provided to me by my professor.
+
+This workshop particularly emphasized on vectors and algorithms, and specifically using functions such as accumulate() , when it comes to gathering elements and adding them up. This is a good way to demonstrate everything we know about algorithms.
