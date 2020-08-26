@@ -1,0 +1,10 @@
+
+// Name: Rohil Khakhar
+// Seneca Student ID: 109270173
+// Seneca email: rkkhakhar@myseneca.ca
+// Date of completion: 11/9/2018
+//
+// I confirm that the content of this file is created by me,
+// with the exception of the parts provided to me by my professor.
+
+In this workshop, one of my key takeaways was modular programming, which helps simplify the program. I also realized the importance of using namespaces, which help maintain visibility of data members.
